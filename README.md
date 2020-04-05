@@ -1,5 +1,5 @@
 # camASL
-Source code for [Huh, et al, "Generative Multi-Stream Architecture For American Sign Language Recognition"](https://drive.google.com/file/d/1w268qwFdqJ5dYSD6jtDMsJqsb2IfYyYV/view?usp=sharing) (Under submission), published through 2019 IEEE MIT URTC Conference.
+Source code for [Huh, et al, "Generative Multi-Stream Architecture For American Sign Language Recognition"](https://arxiv.org/pdf/2003.08743.pdf), published through 2019 IEEE MIT URTC Conference.
 
 Conference Presentation Slides: [2019 MIT URTC Paper Presentation](https://docs.google.com/presentation/d/1WO2SRMkeQ8w9M4f4SluJas0H22MKnrMaNb3IaDpKZ-U/edit?usp=sharing)
 
