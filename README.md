@@ -7,9 +7,7 @@ Conference Poster: [2019 MIT URTC Poster Presentation](https://drive.google.com/
 
 
 ### Developers and Contributors
-Code developed by: Dom Huh
-
-Research Contributors: Dom Huh, Sai Gurrapu, Yuanqi Du, Jay Deorukhkar, Frederick Olson, Parth Pathak, Jana Kosecka, Huzefa Rangwala
+Dom Huh, Sai Gurrapu, Frederick Olson, Jay Deorukhkar, Parth Pathak, Jana Kosecka, Huzefa Rangwala
     
 ### Objective
 Action Recognition on FASL Dataset: Translating American Sign Language Videos.
